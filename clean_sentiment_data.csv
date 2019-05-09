@@ -1,0 +1,501 @@
+,PhraseId,SentenceId,Phrase,Sentiment,clean_review
+0,1,1,"A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .",1,a series of escapade demonstrating the adage that what is good for the goose is also good for the gander some of which occasionally amuses but none of which amount to much of a story
+1,2,1,A series of escapades demonstrating the adage that what is good for the goose,2,a series of escapade demonstrating the adage that what is good for the goose
+2,3,1,A series,2,a series
+3,4,1,A,2,a
+4,5,1,series,2,series
+5,6,1,of escapades demonstrating the adage that what is good for the goose,2,of escapade demonstrating the adage that what is good for the goose
+6,7,1,of,2,of
+7,8,1,escapades demonstrating the adage that what is good for the goose,2,escapade demonstrating the adage that what is good for the goose
+8,9,1,escapades,2,escapade
+9,10,1,demonstrating the adage that what is good for the goose,2,demonstrating the adage that what is good for the goose
+10,11,1,demonstrating the adage,2,demonstrating the adage
+11,12,1,demonstrating,2,demonstrating
+12,13,1,the adage,2,the adage
+13,14,1,the,2,the
+14,15,1,adage,2,adage
+15,16,1,that what is good for the goose,2,that what is good for the goose
+16,17,1,that,2,that
+17,18,1,what is good for the goose,2,what is good for the goose
+18,19,1,what,2,what
+19,20,1,is good for the goose,2,is good for the goose
+20,21,1,is,2,is
+21,22,1,good for the goose,3,good for the goose
+22,23,1,good,3,good
+23,24,1,for the goose,2,for the goose
+24,25,1,for,2,for
+25,26,1,the goose,2,the goose
+26,27,1,goose,2,goose
+27,28,1,"is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .",2,is also good for the gander some of which occasionally amuses but none of which amount to much of a story
+28,29,1,"is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story",2,is also good for the gander some of which occasionally amuses but none of which amount to much of a story
+29,30,1,is also,2,is also
+30,31,1,also,2,also
+31,32,1,"good for the gander , some of which occasionally amuses but none of which amounts to much of a story",2,good for the gander some of which occasionally amuses but none of which amount to much of a story
+32,33,1,"for the gander , some of which occasionally amuses but none of which amounts to much of a story",2,for the gander some of which occasionally amuses but none of which amount to much of a story
+33,34,1,"the gander , some of which occasionally amuses but none of which amounts to much of a story",1,the gander some of which occasionally amuses but none of which amount to much of a story
+34,35,1,"the gander ,",2,the gander
+35,36,1,the gander,2,the gander
+36,37,1,gander,2,gander
+37,38,1,",",2,
+38,39,1,some of which occasionally amuses but none of which amounts to much of a story,2,some of which occasionally amuses but none of which amount to much of a story
+39,40,1,some of which,2,some of which
+40,41,1,some,2,some
+41,42,1,of which,2,of which
+42,43,1,which,2,which
+43,44,1,occasionally amuses but none of which amounts to much of a story,2,occasionally amuses but none of which amount to much of a story
+44,45,1,occasionally,2,occasionally
+45,46,1,amuses but none of which amounts to much of a story,2,amuses but none of which amount to much of a story
+46,47,1,amuses,3,amuses
+47,48,1,but none of which amounts to much of a story,1,but none of which amount to much of a story
+48,49,1,but,2,but
+49,50,1,none of which amounts to much of a story,1,none of which amount to much of a story
+50,51,1,none,2,none
+51,52,1,of which amounts to much of a story,2,of which amount to much of a story
+52,53,1,which amounts to much of a story,2,which amount to much of a story
+53,54,1,amounts to much of a story,2,amount to much of a story
+54,55,1,amounts,2,amount
+55,56,1,to much of a story,2,to much of a story
+56,57,1,to,2,to
+57,58,1,much of a story,2,much of a story
+58,59,1,much,2,much
+59,60,1,of a story,2,of a story
+60,61,1,a story,2,a story
+61,62,1,story,2,story
+62,63,1,.,2,
+63,64,2,"This quiet , introspective and entertaining independent is worth seeking .",4,this quiet introspective and entertaining independent is worth seeking
+64,65,2,"This quiet , introspective and entertaining independent",3,this quiet introspective and entertaining independent
+65,66,2,This,2,this
+66,67,2,"quiet , introspective and entertaining independent",4,quiet introspective and entertaining independent
+67,68,2,"quiet , introspective and entertaining",3,quiet introspective and entertaining
+68,69,2,quiet,2,quiet
+69,70,2,", introspective and entertaining",3,introspective and entertaining
+70,71,2,introspective and entertaining,3,introspective and entertaining
+71,72,2,introspective and,3,introspective and
+72,73,2,introspective,2,introspective
+73,74,2,and,2,and
+74,75,2,entertaining,4,entertaining
+75,76,2,independent,2,independent
+76,77,2,is worth seeking .,3,is worth seeking
+77,78,2,is worth seeking,4,is worth seeking
+78,79,2,is worth,2,is worth
+79,80,2,worth,2,worth
+80,81,2,seeking,2,seeking
+81,82,3,"Even fans of Ismail Merchant 's work , I suspect , would have a hard time sitting through this one .",1,even fan of ismail merchant s work i suspect would have a hard time sitting through this one
+82,83,3,Even fans of Ismail Merchant 's work,2,even fan of ismail merchant s work
+83,84,3,Even fans,2,even fan
+84,85,3,Even,2,even
+85,86,3,fans,3,fan
+86,87,3,of Ismail Merchant 's work,2,of ismail merchant s work
+87,88,3,Ismail Merchant 's work,2,ismail merchant s work
+88,89,3,Ismail Merchant 's,2,ismail merchant s
+89,90,3,Ismail,2,ismail
+90,91,3,Merchant 's,2,merchant s
+91,92,3,Merchant,2,merchant
+92,93,3,'s,2,s
+93,94,3,work,2,work
+94,95,3,", I suspect , would have a hard time sitting through this one .",1,i suspect would have a hard time sitting through this one
+95,96,3,", I suspect ,",2,i suspect
+96,97,3,"I suspect ,",2,i suspect
+97,98,3,I suspect,2,i suspect
+98,99,3,I,2,i
+99,100,3,suspect,2,suspect
+100,101,3,would have a hard time sitting through this one .,1,would have a hard time sitting through this one
+101,102,3,would have a hard time sitting through this one,0,would have a hard time sitting through this one
+102,103,3,would,2,would
+103,104,3,have a hard time sitting through this one,0,have a hard time sitting through this one
+104,105,3,have,2,have
+105,106,3,a hard time sitting through this one,1,a hard time sitting through this one
+106,107,3,a hard time,1,a hard time
+107,108,3,hard time,1,hard time
+108,109,3,hard,2,hard
+109,110,3,time,2,time
+110,111,3,sitting through this one,1,sitting through this one
+111,112,3,sitting,2,sitting
+112,113,3,through this one,2,through this one
+113,114,3,through,2,through
+114,115,3,this one,2,this one
+115,116,3,one,2,one
+116,117,4,"A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a Shakespearean tragedy or a juicy soap opera .",3,a positively thrilling combination of ethnography and all the intrigue betrayal deceit and murder of a shakespearean tragedy or a juicy soap opera
+117,118,4,"A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a Shakespearean tragedy or a juicy soap opera",4,a positively thrilling combination of ethnography and all the intrigue betrayal deceit and murder of a shakespearean tragedy or a juicy soap opera
+118,119,4,"A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder",4,a positively thrilling combination of ethnography and all the intrigue betrayal deceit and murder
+119,120,4,A positively thrilling combination,3,a positively thrilling combination
+120,121,4,positively thrilling combination,3,positively thrilling combination
+121,122,4,positively,3,positively
+122,123,4,thrilling combination,3,thrilling combination
+123,124,4,thrilling,4,thrilling
+124,125,4,combination,2,combination
+125,126,4,"of ethnography and all the intrigue , betrayal , deceit and murder",2,of ethnography and all the intrigue betrayal deceit and murder
+126,127,4,"ethnography and all the intrigue , betrayal , deceit and murder",2,ethnography and all the intrigue betrayal deceit and murder
+127,128,4,ethnography and,2,ethnography and
+128,129,4,ethnography,2,ethnography
+129,130,4,"all the intrigue , betrayal , deceit and murder",2,all the intrigue betrayal deceit and murder
+130,131,4,all,2,all
+131,132,4,"the intrigue , betrayal , deceit and murder",1,the intrigue betrayal deceit and murder
+132,133,4,"intrigue , betrayal , deceit and murder",2,intrigue betrayal deceit and murder
+133,134,4,intrigue,3,intrigue
+134,135,4,", betrayal , deceit and murder",2,betrayal deceit and murder
+135,136,4,"betrayal , deceit and murder",1,betrayal deceit and murder
+136,137,4,betrayal,2,betrayal
+137,138,4,", deceit and murder",1,deceit and murder
+138,139,4,deceit and murder,1,deceit and murder
+139,140,4,deceit and,2,deceit and
+140,141,4,deceit,1,deceit
+141,142,4,murder,1,murder
+142,143,4,of a Shakespearean tragedy or a juicy soap opera,2,of a shakespearean tragedy or a juicy soap opera
+143,144,4,a Shakespearean tragedy or a juicy soap opera,2,a shakespearean tragedy or a juicy soap opera
+144,145,4,a Shakespearean tragedy or,2,a shakespearean tragedy or
+145,146,4,a Shakespearean tragedy,1,a shakespearean tragedy
+146,147,4,Shakespearean tragedy,2,shakespearean tragedy
+147,148,4,Shakespearean,2,shakespearean
+148,149,4,tragedy,1,tragedy
+149,150,4,or,2,or
+150,151,4,a juicy soap opera,3,a juicy soap opera
+151,152,4,juicy soap opera,3,juicy soap opera
+152,153,4,juicy,3,juicy
+153,154,4,soap opera,1,soap opera
+154,155,4,soap,2,soap
+155,156,4,opera,2,opera
+156,157,5,Aggressive self-glorification and a manipulative whitewash .,1,aggressive self glorification and a manipulative whitewash
+157,158,5,Aggressive self-glorification and a manipulative whitewash,0,aggressive self glorification and a manipulative whitewash
+158,159,5,Aggressive,2,aggressive
+159,160,5,self-glorification and a manipulative whitewash,0,self glorification and a manipulative whitewash
+160,161,5,self-glorification and,1,self glorification and
+161,162,5,self-glorification,2,self glorification
+162,163,5,a manipulative whitewash,1,a manipulative whitewash
+163,164,5,manipulative whitewash,1,manipulative whitewash
+164,165,5,manipulative,2,manipulative
+165,166,5,whitewash,2,whitewash
+166,167,6,A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .,4,a comedy drama of nearly epic proportion rooted in a sincere performance by the title character undergoing midlife crisis
+167,168,6,A comedy-drama of nearly epic proportions,3,a comedy drama of nearly epic proportion
+168,169,6,A comedy-drama,2,a comedy drama
+169,170,6,comedy-drama,2,comedy drama
+170,171,6,of nearly epic proportions,3,of nearly epic proportion
+171,172,6,nearly epic proportions,2,nearly epic proportion
+172,173,6,nearly epic,4,nearly epic
+173,174,6,nearly,2,nearly
+174,175,6,epic,3,epic
+175,176,6,proportions,2,proportion
+176,177,6,rooted in a sincere performance by the title character undergoing midlife crisis .,4,rooted in a sincere performance by the title character undergoing midlife crisis
+177,178,6,rooted in a sincere performance by the title character undergoing midlife crisis,3,rooted in a sincere performance by the title character undergoing midlife crisis
+178,179,6,rooted in a sincere performance,3,rooted in a sincere performance
+179,180,6,rooted,3,rooted
+180,181,6,in a sincere performance,4,in a sincere performance
+181,182,6,in,2,in
+182,183,6,a sincere performance,4,a sincere performance
+183,184,6,sincere performance,4,sincere performance
+184,185,6,sincere,3,sincere
+185,186,6,performance,2,performance
+186,187,6,by the title character undergoing midlife crisis,2,by the title character undergoing midlife crisis
+187,188,6,by,2,by
+188,189,6,the title character undergoing midlife crisis,2,the title character undergoing midlife crisis
+189,190,6,the title character,2,the title character
+190,191,6,title character,2,title character
+191,192,6,title,2,title
+192,193,6,character,2,character
+193,194,6,undergoing midlife crisis,2,undergoing midlife crisis
+194,195,6,undergoing,2,undergoing
+195,196,6,midlife crisis,1,midlife crisis
+196,197,6,midlife,2,midlife
+197,198,6,crisis,2,crisis
+198,199,7,"Narratively , Trouble Every Day is a plodding mess .",1,narratively trouble every day is a plodding mess
+199,200,7,Narratively,2,narratively
+200,201,7,", Trouble Every Day is a plodding mess .",1,trouble every day is a plodding mess
+201,202,7,Trouble Every Day is a plodding mess .,0,trouble every day is a plodding mess
+202,203,7,Trouble Every Day,2,trouble every day
+203,204,7,Trouble,1,trouble
+204,205,7,Every Day,2,every day
+205,206,7,Every,2,every
+206,207,7,Day,2,day
+207,208,7,is a plodding mess .,1,is a plodding mess
+208,209,7,is a plodding mess,0,is a plodding mess
+209,210,7,a plodding mess,1,a plodding mess
+210,211,7,plodding mess,0,plodding mess
+211,212,7,plodding,1,plodding
+212,213,7,mess,1,mess
+213,214,8,"The Importance of Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations",3,the importance of being earnest so thick with wit it play like a reading from bartlett s familiar quotation
+214,215,8,The Importance,2,the importance
+215,216,8,Importance,3,importance
+216,217,8,"of Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations",2,of being earnest so thick with wit it play like a reading from bartlett s familiar quotation
+217,218,8,"Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations",3,being earnest so thick with wit it play like a reading from bartlett s familiar quotation
+218,219,8,Being,2,being
+219,220,8,"Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations",2,earnest so thick with wit it play like a reading from bartlett s familiar quotation
+220,221,8,"Earnest ,",3,earnest
+221,222,8,Earnest,3,earnest
+222,223,8,so thick with wit it plays like a reading from Bartlett 's Familiar Quotations,2,so thick with wit it play like a reading from bartlett s familiar quotation
+223,224,8,so,2,so
+224,225,8,thick with wit it plays like a reading from Bartlett 's Familiar Quotations,3,thick with wit it play like a reading from bartlett s familiar quotation
+225,226,8,thick,2,thick
+226,227,8,with wit it plays like a reading from Bartlett 's Familiar Quotations,3,with wit it play like a reading from bartlett s familiar quotation
+227,228,8,with,2,with
+228,229,8,wit it plays like a reading from Bartlett 's Familiar Quotations,2,wit it play like a reading from bartlett s familiar quotation
+229,230,8,wit,2,wit
+230,231,8,it plays like a reading from Bartlett 's Familiar Quotations,2,it play like a reading from bartlett s familiar quotation
+231,232,8,it,2,it
+232,233,8,plays like a reading from Bartlett 's Familiar Quotations,3,play like a reading from bartlett s familiar quotation
+233,234,8,plays,2,play
+234,235,8,like a reading from Bartlett 's Familiar Quotations,2,like a reading from bartlett s familiar quotation
+235,236,8,like,2,like
+236,237,8,a reading from Bartlett 's Familiar Quotations,2,a reading from bartlett s familiar quotation
+237,238,8,a reading,2,a reading
+238,239,8,reading,2,reading
+239,240,8,from Bartlett 's Familiar Quotations,2,from bartlett s familiar quotation
+240,241,8,from,2,from
+241,242,8,Bartlett 's Familiar Quotations,2,bartlett s familiar quotation
+242,243,8,Bartlett 's,2,bartlett s
+243,244,8,Bartlett,2,bartlett
+244,245,8,Familiar Quotations,2,familiar quotation
+245,246,8,Familiar,2,familiar
+246,247,8,Quotations,2,quotation
+247,248,9,But it does n't leave you with much .,1,but it doe n t leave you with much
+248,249,9,it does n't leave you with much .,1,it doe n t leave you with much
+249,250,9,does n't leave you with much .,1,doe n t leave you with much
+250,251,9,does n't leave you with much,1,doe n t leave you with much
+251,252,9,does n't,1,doe n t
+252,253,9,does,2,doe
+253,254,9,n't,2,n t
+254,255,9,leave you with much,2,leave you with much
+255,256,9,leave you,2,leave you
+256,257,9,leave,1,leave
+257,258,9,you,2,you
+258,259,9,with much,2,with much
+259,260,10,You could hate it for the same reason .,1,you could hate it for the same reason
+260,261,10,could hate it for the same reason .,1,could hate it for the same reason
+261,262,10,could hate it for the same reason,0,could hate it for the same reason
+262,263,10,could,2,could
+263,264,10,hate it for the same reason,1,hate it for the same reason
+264,265,10,hate it,0,hate it
+265,266,10,hate,0,hate
+266,267,10,for the same reason,2,for the same reason
+267,268,10,the same reason,2,the same reason
+268,269,10,same reason,2,same reason
+269,270,10,same,2,same
+270,271,10,reason,2,reason
+271,272,11,"There 's little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity .",1,there s little to recommend snow dog unless one considers cliched dialogue and perverse escapism a source of high hilarity
+272,273,11,There,2,there
+273,274,11,"'s little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity .",1,s little to recommend snow dog unless one considers cliched dialogue and perverse escapism a source of high hilarity
+274,275,11,"'s little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity",1,s little to recommend snow dog unless one considers cliched dialogue and perverse escapism a source of high hilarity
+275,276,11,"'s little to recommend Snow Dogs ,",1,s little to recommend snow dog
+276,277,11,'s little to recommend Snow Dogs,1,s little to recommend snow dog
+277,278,11,little to recommend Snow Dogs,2,little to recommend snow dog
+278,279,11,little,2,little
+279,280,11,to recommend Snow Dogs,2,to recommend snow dog
+280,281,11,recommend Snow Dogs,4,recommend snow dog
+281,282,11,recommend,3,recommend
+282,283,11,Snow Dogs,2,snow dog
+283,284,11,Snow,2,snow
+284,285,11,Dogs,2,dog
+285,286,11,unless one considers cliched dialogue and perverse escapism a source of high hilarity,1,unless one considers cliched dialogue and perverse escapism a source of high hilarity
+286,287,11,unless,2,unless
+287,288,11,one considers cliched dialogue and perverse escapism a source of high hilarity,2,one considers cliched dialogue and perverse escapism a source of high hilarity
+288,289,11,considers cliched dialogue and perverse escapism a source of high hilarity,2,considers cliched dialogue and perverse escapism a source of high hilarity
+289,290,11,considers,2,considers
+290,291,11,cliched dialogue and perverse escapism a source of high hilarity,1,cliched dialogue and perverse escapism a source of high hilarity
+291,292,11,cliched dialogue and perverse escapism,1,cliched dialogue and perverse escapism
+292,293,11,cliched dialogue and,1,cliched dialogue and
+293,294,11,cliched dialogue,1,cliched dialogue
+294,295,11,cliched,1,cliched
+295,296,11,dialogue,2,dialogue
+296,297,11,perverse escapism,2,perverse escapism
+297,298,11,perverse,1,perverse
+298,299,11,escapism,2,escapism
+299,300,11,a source of high hilarity,3,a source of high hilarity
+300,301,11,a source,2,a source
+301,302,11,source,2,source
+302,303,11,of high hilarity,3,of high hilarity
+303,304,11,high hilarity,4,high hilarity
+304,305,11,high,3,high
+305,306,11,hilarity,3,hilarity
+306,307,12,"Kung Pow is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that .",1,kung pow is oedekerk s realization of his childhood dream to be in a martial art flick and prof that sometimes the dream of youth should remain just that
+307,308,12,Kung Pow,2,kung pow
+308,309,12,Kung,2,kung
+309,310,12,Pow,3,pow
+310,311,12,"is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that .",2,is oedekerk s realization of his childhood dream to be in a martial art flick and prof that sometimes the dream of youth should remain just that
+311,312,12,"is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that",0,is oedekerk s realization of his childhood dream to be in a martial art flick and prof that sometimes the dream of youth should remain just that
+312,313,12,"is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and",2,is oedekerk s realization of his childhood dream to be in a martial art flick and
+313,314,12,"is Oedekerk 's realization of his childhood dream to be in a martial-arts flick ,",2,is oedekerk s realization of his childhood dream to be in a martial art flick
+314,315,12,is Oedekerk 's realization of his childhood dream to be in a martial-arts flick,2,is oedekerk s realization of his childhood dream to be in a martial art flick
+315,316,12,Oedekerk 's realization of his childhood dream to be in a martial-arts flick,2,oedekerk s realization of his childhood dream to be in a martial art flick
+316,317,12,Oedekerk 's realization of his childhood dream,2,oedekerk s realization of his childhood dream
+317,318,12,Oedekerk 's realization,2,oedekerk s realization
+318,319,12,Oedekerk 's,2,oedekerk s
+319,320,12,Oedekerk,2,oedekerk
+320,321,12,realization,2,realization
+321,322,12,of his childhood dream,2,of his childhood dream
+322,323,12,his childhood dream,2,his childhood dream
+323,324,12,his,2,his
+324,325,12,childhood dream,2,childhood dream
+325,326,12,childhood,2,childhood
+326,327,12,dream,3,dream
+327,328,12,to be in a martial-arts flick,2,to be in a martial art flick
+328,329,12,be in a martial-arts flick,2,be in a martial art flick
+329,330,12,be,2,be
+330,331,12,in a martial-arts flick,2,in a martial art flick
+331,332,12,a martial-arts flick,2,a martial art flick
+332,333,12,martial-arts flick,2,martial art flick
+333,334,12,martial-arts,2,martial art
+334,335,12,flick,2,flick
+335,336,12,proves that sometimes the dreams of youth should remain just that,1,prof that sometimes the dream of youth should remain just that
+336,337,12,proves,2,prof
+337,338,12,that sometimes the dreams of youth should remain just that,1,that sometimes the dream of youth should remain just that
+338,339,12,sometimes the dreams of youth should remain just that,1,sometimes the dream of youth should remain just that
+339,340,12,sometimes,2,sometimes
+340,341,12,the dreams of youth should remain just that,2,the dream of youth should remain just that
+341,342,12,the dreams of youth,3,the dream of youth
+342,343,12,the dreams,2,the dream
+343,344,12,dreams,2,dream
+344,345,12,of youth,2,of youth
+345,346,12,youth,2,youth
+346,347,12,should remain just that,2,should remain just that
+347,348,12,should,2,should
+348,349,12,remain just that,2,remain just that
+349,350,12,remain,2,remain
+350,351,12,just that,2,just that
+351,352,12,just,2,just
+352,353,13,The performances are an absolute joy .,4,the performance are an absolute joy
+353,354,13,The performances,2,the performance
+354,355,13,performances,2,performance
+355,356,13,are an absolute joy .,4,are an absolute joy
+356,357,13,are an absolute joy,3,are an absolute joy
+357,358,13,are,2,are
+358,359,13,an absolute joy,4,an absolute joy
+359,360,13,an,2,an
+360,361,13,absolute joy,3,absolute joy
+361,362,13,absolute,2,absolute
+362,363,13,joy,4,joy
+363,364,14,Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .,3,fresnadillo ha something serious to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+364,365,14,Fresnadillo,2,fresnadillo
+365,366,14,has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .,3,ha something serious to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+366,367,14,has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,3,ha something serious to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+367,368,14,has,2,ha
+368,369,14,something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,3,something serious to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+369,370,14,something,2,something
+370,371,14,serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,2,serious to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+371,372,14,serious,2,serious
+372,373,14,to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,3,to say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+373,374,14,say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,2,say about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+374,375,14,say,2,say
+375,376,14,about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,2,about the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+376,377,14,about,2,about
+377,378,14,the ways in which extravagant chance can distort our perspective and throw us off the path of good sense,1,the way in which extravagant chance can distort our perspective and throw u off the path of good sense
+378,379,14,the ways,2,the way
+379,380,14,ways,2,way
+380,381,14,in which extravagant chance can distort our perspective and throw us off the path of good sense,2,in which extravagant chance can distort our perspective and throw u off the path of good sense
+381,382,14,in which,2,in which
+382,383,14,extravagant chance can distort our perspective and throw us off the path of good sense,2,extravagant chance can distort our perspective and throw u off the path of good sense
+383,384,14,extravagant chance,2,extravagant chance
+384,385,14,extravagant,4,extravagant
+385,386,14,chance,2,chance
+386,387,14,can distort our perspective and throw us off the path of good sense,2,can distort our perspective and throw u off the path of good sense
+387,388,14,can,2,can
+388,389,14,distort our perspective and throw us off the path of good sense,2,distort our perspective and throw u off the path of good sense
+389,390,14,distort our perspective and,2,distort our perspective and
+390,391,14,distort our perspective,2,distort our perspective
+391,392,14,distort,2,distort
+392,393,14,our perspective,2,our perspective
+393,394,14,our,2,our
+394,395,14,perspective,2,perspective
+395,396,14,throw us off the path of good sense,2,throw u off the path of good sense
+396,397,14,throw us,2,throw u
+397,398,14,throw,2,throw
+398,399,14,us,3,u
+399,400,14,off the path of good sense,1,off the path of good sense
+400,401,14,off,1,off
+401,402,14,the path of good sense,2,the path of good sense
+402,403,14,the path,2,the path
+403,404,14,path,2,path
+404,405,14,of good sense,3,of good sense
+405,406,14,good sense,3,good sense
+406,407,14,sense,2,sense
+407,408,15,"I still like Moonlight Mile , better judgment be damned .",3,i still like moonlight mile better judgment be damned
+408,409,15,"still like Moonlight Mile , better judgment be damned .",3,still like moonlight mile better judgment be damned
+409,410,15,still,2,still
+410,411,15,"like Moonlight Mile , better judgment be damned .",2,like moonlight mile better judgment be damned
+411,412,15,"like Moonlight Mile , better judgment be damned",2,like moonlight mile better judgment be damned
+412,413,15,"Moonlight Mile , better judgment be damned",2,moonlight mile better judgment be damned
+413,414,15,"Moonlight Mile , better judgment",2,moonlight mile better judgment
+414,415,15,Moonlight,2,moonlight
+415,416,15,"Mile , better judgment",2,mile better judgment
+416,417,15,Mile,2,mile
+417,418,15,", better judgment",2,better judgment
+418,419,15,better judgment,2,better judgment
+419,420,15,better,4,better
+420,421,15,judgment,2,judgment
+421,422,15,be damned,2,be damned
+422,423,15,damned,1,damned
+423,424,16,"A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .",3,a welcome relief from baseball movie that try too hard to be mythic this one is a sweet and modest and ultimately winning story
+424,425,16,A welcome relief from baseball movies that try too hard to be mythic,3,a welcome relief from baseball movie that try too hard to be mythic
+425,426,16,A welcome relief,3,a welcome relief
+426,427,16,welcome relief,3,welcome relief
+427,428,16,welcome,2,welcome
+428,429,16,relief,2,relief
+429,430,16,from baseball movies that try too hard to be mythic,1,from baseball movie that try too hard to be mythic
+430,431,16,baseball movies that try too hard to be mythic,0,baseball movie that try too hard to be mythic
+431,432,16,baseball movies,2,baseball movie
+432,433,16,baseball,2,baseball
+433,434,16,movies,2,movie
+434,435,16,that try too hard to be mythic,1,that try too hard to be mythic
+435,436,16,try too hard to be mythic,1,try too hard to be mythic
+436,437,16,try,2,try
+437,438,16,too hard to be mythic,1,too hard to be mythic
+438,439,16,too,2,too
+439,440,16,hard to be mythic,1,hard to be mythic
+440,441,16,to be mythic,2,to be mythic
+441,442,16,be mythic,2,be mythic
+442,443,16,mythic,2,mythic
+443,444,16,", this one is a sweet and modest and ultimately winning story .",3,this one is a sweet and modest and ultimately winning story
+444,445,16,this one is a sweet and modest and ultimately winning story .,4,this one is a sweet and modest and ultimately winning story
+445,446,16,is a sweet and modest and ultimately winning story .,4,is a sweet and modest and ultimately winning story
+446,447,16,is a sweet and modest and ultimately winning story,3,is a sweet and modest and ultimately winning story
+447,448,16,a sweet and modest and ultimately winning story,3,a sweet and modest and ultimately winning story
+448,449,16,a sweet and modest and,3,a sweet and modest and
+449,450,16,a sweet and modest,4,a sweet and modest
+450,451,16,sweet and modest,3,sweet and modest
+451,452,16,sweet and,3,sweet and
+452,453,16,sweet,4,sweet
+453,454,16,modest,3,modest
+454,455,16,ultimately winning story,4,ultimately winning story
+455,456,16,ultimately,2,ultimately
+456,457,16,winning story,3,winning story
+457,458,16,winning,3,winning
+458,459,17,"a bilingual charmer , just like the woman who inspired it",3,a bilingual charmer just like the woman who inspired it
+459,460,17,"a bilingual charmer ,",3,a bilingual charmer
+460,461,17,a bilingual charmer,3,a bilingual charmer
+461,462,17,bilingual charmer,3,bilingual charmer
+462,463,17,bilingual,2,bilingual
+463,464,17,charmer,3,charmer
+464,465,17,just like the woman who inspired it,2,just like the woman who inspired it
+465,466,17,like the woman who inspired it,2,like the woman who inspired it
+466,467,17,the woman who inspired it,2,the woman who inspired it
+467,468,17,the woman,2,the woman
+468,469,17,woman,2,woman
+469,470,17,who inspired it,2,who inspired it
+470,471,17,who,2,who
+471,472,17,inspired it,2,inspired it
+472,473,17,inspired,3,inspired
+473,474,18,Like a less dizzily gorgeous companion to Mr. Wong 's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .,2,like a le dizzily gorgeous companion to mr wong s in the mood for love very much a hong kong movie despite it mainland setting
+474,475,18,Like a less dizzily gorgeous companion to Mr.,3,like a le dizzily gorgeous companion to mr
+475,476,18,a less dizzily gorgeous companion to Mr.,2,a le dizzily gorgeous companion to mr
+476,477,18,a less dizzily gorgeous companion,2,a le dizzily gorgeous companion
+477,478,18,less dizzily gorgeous companion,2,le dizzily gorgeous companion
+478,479,18,less dizzily gorgeous,2,le dizzily gorgeous
+479,480,18,less,2,le
+480,481,18,dizzily gorgeous,4,dizzily gorgeous
+481,482,18,dizzily,2,dizzily
+482,483,18,gorgeous,3,gorgeous
+483,484,18,companion,3,companion
+484,485,18,to Mr.,2,to mr
+485,486,18,Mr.,2,mr
+486,487,18,Wong 's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .,2,wong s in the mood for love very much a hong kong movie despite it mainland setting
+487,488,18,Wong,2,wong
+488,489,18,'s In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .,2,s in the mood for love very much a hong kong movie despite it mainland setting
+489,490,18,'s In the Mood for Love -- very much a Hong Kong movie despite its mainland setting,2,s in the mood for love very much a hong kong movie despite it mainland setting
+490,491,18,'s In the Mood for Love -- very much a Hong Kong movie,2,s in the mood for love very much a hong kong movie
+491,492,18,In the Mood for Love -- very much a Hong Kong movie,3,in the mood for love very much a hong kong movie
+492,493,18,the Mood for Love -- very much a Hong Kong movie,2,the mood for love very much a hong kong movie
+493,494,18,the Mood,3,the mood
+494,495,18,Mood,2,mood
+495,496,18,for Love -- very much a Hong Kong movie,2,for love very much a hong kong movie
+496,497,18,Love -- very much a Hong Kong movie,3,love very much a hong kong movie
+497,498,18,Love -- very much,4,love very much
+498,499,18,Love --,3,love
+499,500,18,Love,4,love
